@@ -6,7 +6,6 @@ Section: B18
 
 Mentor: Brian Duke 
 
-\\
 
 **What is the most interesting topic covered in your domain this quarter?**
 
